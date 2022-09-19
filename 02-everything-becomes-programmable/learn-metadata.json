@@ -22,7 +22,7 @@
             "$ref": "./02.01.08-lab-create-a-process-flowchart/learn-metadata.json"
         },
 	{
-            "$ref": "./02.01.09-basic-programming-concepts-quiz/learn-metadata.json"
+            "$ref": "./02.01.09-match-the-flowchart-symbol-to-the-task-quiz/learn-metadata.json"
         },
         {
             "$ref": "./02.02-basic-programming-using-blockly/learn-metadata.json"
