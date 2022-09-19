@@ -3,6 +3,6 @@
   "materialType": "learning-path",
   "tags": { "$ref": "./material-tags.json" },
   "materials": [
-    { "$ref": "./02-everything-becomes-programmable/learn-metadata.json" },
+    { "$ref": "./02-everything-becomes-programmable/learn-metadata.json" }
   ]
 }

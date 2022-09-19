@@ -1,6 +1,6 @@
 {
     "title": "Всё становится программируемым",
-	"materialType": "learning-path",
+	"materialType": "course",
 	"tags": { "$ref": "./material-tags.json" },
 	"materials": [
 	    {
